@@ -1,0 +1,17 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "About Me"
+pageRef = "aboutMe"
+identifier = "IzIDHbc4Ev"
+weight = 9_999
+
+[[main]]
+name = "Projects"
+pageRef = "Projects"
+identifier = "E0d7TMAbGm"
+weight = 9_999
+
+[[footer]]
+none = "none"

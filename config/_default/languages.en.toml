@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Hiya! It's Nao!"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[[params.author.links]]
+email = "mailto:nao.rovel@gmail.com"
+
+[[params.author.links]]
+github = "https://github.com/naorovel"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/nao-rojas/"
+
+["params.author"]
+name = "Nao Rojas"
+image = "pfp.jpg"
